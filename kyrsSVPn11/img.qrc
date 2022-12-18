@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/resours">
+        <file>img/cht.png</file>
+        <file>img/cht51.png</file>
+        <file>img/cht52.png</file>
+        <file>img/cht53.png</file>
+        <file>img/cht54.png</file>
+        <file>img/cht55.png</file>
+        <file>img/cht61.png</file>
+        <file>img/cht62.png</file>
+        <file>img/cht63.png</file>
+        <file>img/cht64.png</file>
+        <file>img/cht65.png</file>
+        <file>img/cht71.png</file>
+        <file>img/cht72.png</file>
+        <file>img/cht73.png</file>
+        <file>img/cht74.png</file>
+        <file>img/cht75.png</file>
+        <file>img/cht81.png</file>
+        <file>img/cht82.png</file>
+        <file>img/cht83.png</file>
+        <file>img/cht84.png</file>
+        <file>img/cht85.png</file>
+    </qresource>
+</RCC>
